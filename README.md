@@ -60,9 +60,9 @@ I enjoy building systems that combine logic, scalability, and real-world problem
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=ghhrsilva&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ghhrsilva&show_icons=true&theme=tokyonight" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghhrsilva&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghhrsilva&layout=compact&theme=tokyonight" />
 
 </div>
 
