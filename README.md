@@ -1,60 +1,59 @@
-# Hi, I'm Himeth Silva 👋
+<div align="center">
 
-Computer Science Undergraduate  
-Focused on Backend Systems, AI & Embedded Solutions  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F0FF&background=0D111700&center=true&vCenter=true&width=500&lines=HI,+I'M+NETHMIKA+GIMHANA;JAVA+%26+REACT+SPECIALIST;FULL+STACK+DEVELOPER;CODING+THE+FUTURE" alt="Typing SVG" />
+  </a>
 
----
+  <br/>
 
-## 🚀 Current Focus
-- Building AI-assisted applications
-- Exploring scalable backend architectures
-- Strengthening Java and system design fundamentals
-- Improving data structures & algorithms
+  <p>
+    <a href="https://www.linkedin.com/in/nethmika-jayasooriya-a54748312">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    &nbsp;
+    <a href="mailto:work.nethmika@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    &nbsp;
+    <a href="https://nethmikaportfolio.netlify.app/">
+      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+    </a>
+  </p>
 
----
+  <br/><br/>
 
-## 🛠 Tech Stack
+  <img src="https://skillicons.dev/icons?i=java,spring,react,nextjs,nodejs,mysql,aws,docker&theme=dark" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,tailwind,flutter,firebase,git&theme=dark" />
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  <br/><br/>
 
-### Web
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  <img src="profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" />
+  <br/>
+  <img src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top Languages" />
+  <br/>
+  <img src="profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" />
 
-### Database & Tools
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  <br/><br/>
 
----
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🔥 Featured Projects
+  <br/><br/>
 
-### ORATO – AI Presentation Training System
-- AI-assisted speech evaluation system  
-- Python backend + React frontend  
-- Designed modular architecture for scalability  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NethmikaJayasooriya&theme=tokyo-night&hide_border=true&area=true" />
 
-### IoT Smart Parking System
-- Real-time slot detection using ultrasonic sensors  
-- Automated gate control via servo integration  
-- Embedded system logic implementation  
+  <br/><br/>
 
----
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F0FF&background=0D111700&center=true&vCenter=true&width=600&lines=It's+not+who+I+am+underneath...;...but+what+I+do+that+defines+me." alt="Batman Quote" />
+  </a>
 
-## 📊 GitHub Stats
+  <br/><br/>
 
-![Himeth's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghhrsilva&show_icons=true&theme=default)
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=NethmikaJayasooriya&style=flat-square&color=blue" alt="Visitor Count" />
+    <br/>
+    <i>Thanks for visiting my digital universe! 🚀</i>
+  </p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ghhrsilva&layout=compact)
-
----
-
-## 📫 Connect With Me
-
-LinkedIn: (https://linkedin.com/in/himeth-silva)
-Email: ghhrsilva@gmail.com
+</div>
