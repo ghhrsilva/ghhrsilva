@@ -43,6 +43,19 @@ I enjoy building systems that combine logic, scalability, and real-world problem
 
 ---
 
+## 📈 GitHub Overview
+
+<div align="center">
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ghhrsilva&theme=tokyonight" />
+  <br/><br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ghhrsilva&theme=tokyonight" />
+  <br/><br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ghhrsilva&theme=tokyonight" />
+
+</div>
+
+
 ## 📊 GitHub Stats
 
 <div align="center">
