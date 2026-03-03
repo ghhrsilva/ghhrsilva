@@ -76,10 +76,7 @@ I enjoy building systems that combine logic, scalability, and real-world problem
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Turning+ideas+into+working+systems.;One+commit+at+a+time." />
   </a>
 
-</div>
-
-
-<div align="center">
+  <div align="center">
 
   <img src="https://komarev.com/ghpvc/?username=ghhrsilva&style=flat-square&color=blue" />
 
@@ -87,3 +84,8 @@ I enjoy building systems that combine logic, scalability, and real-world problem
   <i>Thanks for visiting my digital universe! 🚀</i>
 
 </div>
+
+</div>
+
+
+
