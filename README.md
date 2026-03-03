@@ -49,9 +49,9 @@ I enjoy building systems that combine logic, scalability, and real-world problem
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ghhrsilva&theme=dracula" />
   <br/><br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ghhrsilva&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ghhrsilva&theme=github" />
   <br/><br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ghhrsilva&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ghhrsilva&theme=solarized_dark" />
 
 </div>
 
