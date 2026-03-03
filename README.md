@@ -57,6 +57,6 @@ I enjoy building systems that combine logic, scalability, and real-world problem
 
 <div align="center">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ghhrsilva&theme=github-light" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ghhrsilva&theme=react-dark&hide_border=true&area=true" />
 
 </div>
