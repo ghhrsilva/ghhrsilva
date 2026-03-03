@@ -55,10 +55,13 @@ I enjoy building systems that combine logic, scalability, and real-world problem
 
 </div>
 
+<br/><br/><br/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
 </div>
+
+<br/><br/><br/>
 
 <div align="center">
 
