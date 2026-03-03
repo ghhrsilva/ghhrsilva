@@ -56,17 +56,6 @@ I enjoy building systems that combine logic, scalability, and real-world problem
 </div>
 
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=ghhrsilva&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghhrsilva&layout=compact&theme=tokyonight" />
-
-</div>
-
----
 
 <div align="center">
 
