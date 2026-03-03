@@ -77,3 +77,13 @@ I enjoy building systems that combine logic, scalability, and real-world problem
   </a>
 
 </div>
+
+
+<div align="center">
+
+  <img src="https://komarev.com/ghpvc/?username=ghhrsilva&style=flat-square&color=blue" />
+
+  <br/><br/>
+  <i>Thanks for visiting my digital universe! 🚀</i>
+
+</div>
