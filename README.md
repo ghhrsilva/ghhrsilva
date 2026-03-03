@@ -75,17 +75,23 @@ I enjoy building systems that combine logic, scalability, and real-world problem
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Turning+ideas+into+working+systems.;One+commit+at+a+time." />
   </a>
+  
+</div>
 
   <div align="center">
 
-  <img src="https://komarev.com/ghpvc/?username=ghhrsilva&style=flat-square&color=blue" />
+  <br/><br/>
+
+  <img src="https://komarev.com/ghpvc/?username=ghhrsilva&style=flat-square&color=38BDF8" />
+
+  <br/>
+
+  <i>Code. Build. Improve. Repeat.</i>
 
   <br/><br/>
-  <i>Thanks for visiting my digital universe! 🚀</i>
 
 </div>
 
-</div>
 
 
 
